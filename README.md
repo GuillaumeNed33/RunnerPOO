@@ -1,5 +1,6 @@
 # RunnerPOO
 Projet de POO en C++ pour l'IUT informatique de Bordeaux avec la contribution de Nicolas MARCILLOUX.
+Necessite La SFML 2.4, Fonctionne sous Linux.
 
 -- Manuel d'utilisation --
 
